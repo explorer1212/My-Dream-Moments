@@ -15,7 +15,7 @@
 - [赞助者名单](SponsorList.md)
 - [里程碑](MileStone.md)
 - [致谢](Thanks.md)<br>
-![demo.png](img%2Fdemo.png)
+
 ---
 ## 声明
 - 本项目仅用于交流学习，LLM发言不代表作者本人立场。prompt所模仿角色版权归属原作者。任何未经许可进行的限制级行为均由使用者个人承担。
