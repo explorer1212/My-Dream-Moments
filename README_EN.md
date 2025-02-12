@@ -5,7 +5,7 @@
 English · [简体中文](./README.md) 
 - My Dream Moments is an emotional companion program based on a large language model (LLM) that can connect to WeChat, providing a more authentic emotional interaction experience. It features the Atri-My Dear Moments prompt and addresses the rigid question-and-answer format of traditional human-machine dialogue, offering immersive role-playing and multi-turn conversation support. The project name stems from the original title of the first intelligent agent running on this program combined with the project's core values.
 - It is recommended to use the DeepSeek V3 model.  
-  ![demo.png](img%2Fdemo.png)
+
 
 ---
 
